@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-button{
+.palette{
+    background-color: #f5deb3;
     font-family: Montez,cursive;
+}
+button{
     border: 2px solid black;
 }
 
